@@ -8,9 +8,9 @@ You can also download the [stm32_ccloader.hex](https://github.com/fawntio/CCLoad
  Pin Name | Microcontroller Pin# | HM10 Pin# |
 | --- | --- | --- | 
 | DD (DEBUG_DATA) | PB12 | Pin#8 | 
-| DC (DEBUG_CLOCK) | PB10| Pin#7 | 
+| DC (DEBUG_CLOCK) | PB10 | Pin#7 | 
 | Reset (RESET_N)| PB11 | Pin#11 |
-| VCC | 5V |  Pin#12 | 
+| VCC | 3.3V |  Pin#12 | 
 | GND | GND | Pin#13 | 
 
 ![image](hm-10-pinout.png)
