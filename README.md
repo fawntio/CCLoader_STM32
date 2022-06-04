@@ -16,7 +16,7 @@ You can also download the [stm32_ccloader.hex](https://github.com/fawntio/CCLoad
 ![image](hm-10-pinout.png)
 ![image](Connection.png)
 
-3. Run the program CCLoader.exe to load the Demo.bin in the terminal.
+3. Run the program [CCLoader.exe](https://github.com/fawntio/CCLoader_STM32/releases/CCLoader.exe) to load the [Demo.bin](https://github.com/fawntio/CCLoader_STM32/releases/CCLoader.exe) in the terminal.
 
 
 
